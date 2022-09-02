@@ -1,3 +1,1 @@
-script that prints the absolute pa
-
-th name of the current working directory
+Display current directory contents, including hidden files
